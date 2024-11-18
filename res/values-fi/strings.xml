@@ -944,7 +944,7 @@
     <string name="enable_notifications">Laita ilmoitukset päälle</string>
     <string name="PROMOTE_MEMBER">Ylennä jäsen</string>
     <string name="DEMOTE_MEMBER">Alenna jäsen</string>
-    <string name="HAPPY_BIRTHDAY_">Hyvää syntymäpäivää Nebulos!</string>
+    <string name="HAPPY_BIRTHDAY_">Hyvää syntymäpäivää Nebulous!</string>
     <string name="Years">Vuosia</string>
     <string name="Friend_Added_">Ystävä lisätty!</string>
     <string name="_in_a_16x_Split_Game">16x pelissä</string>
@@ -953,11 +953,11 @@
     <string name="CHRISTMAS_ADVENT_SKINS">Joulu avatarit</string>
     <string name="You_cannot_open_this_present_yet_">Et voi avata tätä lahjaa vielä!</string>
     <string name="Open_Present">Avaa lahja</string>
-    <string name="OPEN">Avaa</string>
+    <string name="OPEN">AVAA</string>
     <string name="Halo">Halo</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"To use this halo you must be at least level %1$s and earn %2$s achievements."</string>
     <string name="Halos">Halot</string>
-    <string name="CAMPAIGN">Camping</string>
+    <string name="CAMPAIGN">CAMPAIGN</string>
     <string name="Mission">Tehtävä</string>
     <string name="Kill_All_Bots">Tapa kaikki botit</string>
     <string name="Survive">Selviydy</string>
@@ -999,7 +999,7 @@
     <string name="Birthday">Syntymäpäivä</string>
     <string name="Mass_Boost">Massa boost</string>
 
-    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Mass Boost does not work in arenas, tournaments, or clan wars!</string>
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Mass Boost ei toimi areenoilla, turnauksissa tai klaanisodissa!</string>
 
     <string name="ArenaDescriptionPure">Ei autoclikkeriä tai ultraclikkeriä. Saat vain yheden elämän. Voittaja saa %s plasmaa.</string>
     <string name="_1v1_Pure">1v1 Pure</string>
@@ -1010,28 +1010,28 @@
     <string name="BLOCKED">Estetty</string>
     <string name="CLAN_WAR_HISTORY">CLAN WAR HISTORY</string>
     <string name="Particle">Particle</string>
-    <string name="Privacy">Privacy</string>
+    <string name="Privacy">Yksityisyys</string>
     <string name="EULA">EULA</string>
-    <string name="You_can_purchase_this_hat_for">You can purchase this hat for</string>
-    <string name="You_can_purchase_this_particle_for">You can purchase this particle for</string>
-    <string name="You_can_purchase_this_eject_skin_for">You can purchase this eject skin for</string>
+    <string name="You_can_purchase_this_hat_for">Voit ostaa tämän hatun</string>
+    <string name="You_can_purchase_this_particle_for">Voit ostaa tämän hiukkasen</string>
+    <string name="You_can_purchase_this_eject_skin_for">Voit ostaa tämän poista iho</string>
     <string name="Skin">Skin</string>
     <string name="Custom_Skin">Custom Skin</string>
-    <string name="Color">Color</string>
-    <string name="RECENT_PLAYERS">RECENT PLAYERS</string>
-    <string name="POSITION_CONTROL_STICK">"POSITION CONTROL STICK"</string>
-    <string name="POSITION_SPLIT_BUTTON">POSITION SPLIT BUTTON</string>
-    <string name="POSITION_EJECT_BUTTON">POSITION EJECT BUTTON</string>
-    <string name="POSITION_EJECT_TOGGLE_BUTTON">POSITION EJECT TOGGLE BUTTON</string>
+    <string name="Color">Väri</string>
+    <string name="RECENT_PLAYERS">VIIMEISIMMÄT PELAAJAT</string>
+    <string name="POSITION_CONTROL_STICK">ASENNONSÄÄTÖKEPPI</string>
+    <string name="POSITION_SPLIT_BUTTON">SIJAINNIN JAKOPAINIKE</string>
+    <string name="POSITION_EJECT_BUTTON">ASEMAN POISTOPAINIKE</string>
+    <string name="POSITION_EJECT_TOGGLE_BUTTON">ASEMAN POISTON VAIHTOPAINIKE</string>
     <string name="WIFI">WIFI</string>
     <string name="JOIN_IP">JOIN IP</string>
     <string name="Specify_Host_IP">Specify Host IP</string>
     <string name="ADVANCED_SETUP">ADVANCED SETUP</string>
     <string name="WORLD_CUP_EVENT___">WORLD CUP EVENT!!!</string>
-    <string name="world_cup_event_description">Double XP and Double Plasma in Soccer Mode until the end of the world cup!</string>
+    <string name="world_cup_event_description">Double XP ja Double Plasma Soccer-tilassa MM-kisojen loppuun asti!</string>
     <string name="GIF_Skins">GIF Skins</string>
-    <string name="PLAY_ONLINE_">PLAY ONLINE!</string>
-    <string name="Absorb_10_000_000_dots">Absorb 10,000,000 dots</string>
+    <string name="PLAY_ONLINE_">PELAA VERKOSSA!</string>
+    <string name="Absorb_10_000_000_dots">Ime 10 000 000 pistettä</string>
     <string name="Dot_Deity">Dot Deity</string>
     <string name="Mass_Mastery">Mass Mastery</string>
     <string name="Gain_100_000_000_mass">Gain 100,000,000 mass</string>
@@ -1041,10 +1041,10 @@
     <string name="Community">Yhteisössä</string>
     <string name="Buy">Ostaa</string>
     <string name="Sell">Myydä</string>
-    <string name="community_skin_requirement">You must purchase Enable Custom Skins to use community skins.</string>
+    <string name="community_skin_requirement">Sinun on ostettava ota mukautetut nahat käyttöön, jotta voit käyttää yhteisön nahkoja.</string>
     <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for</string>
     <string name="VIEW_UPLOADER">VIEW UPLOADER</string>
-    <string name="POPULAR">POPULAR</string>
+    <string name="POPULAR">SUOSITTU</string>
     <string name="NEW">UUSI</string>
     <string name="Manage_Configurations">Manage Configurations</string>
     <string name="Leave_blank_for_all_uploaders_">Leave blank for all uploaders.</string>
@@ -1052,9 +1052,9 @@
     <string name="This_cannot_be_used_in_FFA_Classic_">This cannot be used in FFA Classic.</string>
     <string name="ENEMY">VIHOLLINEN</string>
     <string name="ALLY">LIITTOLAINEN</string>
-    <string name="Rename">Rename</string>
-    <string name="Set_friendly_name_">Set friendly name.</string>
-    <string name="Leave_blank_for_none_">Leave blank for none.</string>
+    <string name="Rename">Nimeä</string>
+    <string name="Set_friendly_name_">Aseta ystävällinen nimi.string>
+    <string name="Leave_blank_for_none_">Jätä tyhjäksi ei yhtään.</string>
     <string name="Vote_Kick">Kick Player</string>
     <string name="FONT">FONTII</string>
     <string name="CIRCLE">YMPYRÄ</string>
@@ -1073,7 +1073,7 @@
     <string name="SKIN_PACK">SKIN PACK</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
 
-    <string name="pack_info">After you purchase this skin pack your exclusive skins will appear at the top of the skin selection menus.</string>
+    <string name="pack_info">Kun olet ostanut tämän ihopakkauksen, eksklusiiviset nahkasi näkyvät ihon valintavalikoiden yläosassa.</string>
 
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">EXCLUSIVE Skins, Pets, Hats and More!</string>
     <string name="BUY_NOW_">BUY NOW!</string>
@@ -1306,6 +1306,19 @@ Commands:
     <string name="no_response">No response from server. Please check the internet connection.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+
+    <string name="sign_in_explanation" translatable="true">
+Kirjaudu sisään päästäksesi moninpeliin. Voit:
+
+- Pelaa ja keskustele muiden pelaajien kanssa ympäri maailmaa
+- Jaa edistymisesi muiden kanssa
+- Luo ja koristele profiili
+- Osta plasmaa kaupasta
+- Lataa käyttäjien luomia nahkoja
+
+Jos et halua kirjautua sisään, voit silti pelata yksinpeliä.
+    </string>
+    
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
